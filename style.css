@@ -17,6 +17,7 @@ main {
 
 .content-box {
   width: 300px;
+  padding: 10px;
   position: relative;
   background-color: #eeeeee;
 }
@@ -26,7 +27,6 @@ main {
 }
 
 .content-image {
-  margin: 10px 10px 0 10px;
   height: 150px;
 }
 
@@ -57,11 +57,9 @@ main {
   padding: 3px;
 }
 
-section{
-padding: 15px 10px 10px 10px;
-}
 
 .title {
+  margin-top: 15px;
   margin-bottom: 5px;
 }
 
